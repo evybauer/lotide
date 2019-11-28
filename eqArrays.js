@@ -17,8 +17,6 @@ const assertEqual = function(actual, expected) {
   }
 };
 
-
-// TESTS:
 assertEqual(eqArrays([], []), true); // => should PASS
 assertEqual(eqArrays([1, 2, 3], [1, 2, 3]), true); // => should PASS
 assertEqual(eqArrays([1, 2, 3], ["1", 2, "3"]), false); // => should NOT PASS
