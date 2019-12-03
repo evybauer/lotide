@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@evybauer/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "This project is a mini clone of the [Lodash](https://lodash.com) library. It makes easier working with iteration of arrays, objects and strings as well as facilitates the manipulation and testing of values",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/evybauer/lotide.git"
   },
-  "author": "",
+  "author": "Evelyn Louise Bauer",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/evybauer/lotide/issues"
